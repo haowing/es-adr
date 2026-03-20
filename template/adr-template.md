@@ -11,13 +11,13 @@ informed: {list everyone who is kept up-to-date on progress; and with whom there
 
 ## Context and Problem Statement
 
-{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question and add links to collaboration boards or issue management systems.}
+{Describe the context and problem statement, e.g., in free form using two to three sentences or in the form of an illustrative story. You may want to articulate the problem in form of a question. Consider adding links to collaboration boards or issue management systems. Make the scope of the decision expliciit, for instance, by calling out or pointing at structural architecture elements (components, connectors, ...)}
 
 <!-- This is an optional element. Feel free to remove. -->
 ## Decision Drivers
 
-* {decision driver 1, e.g., a force, facing concern, …}
-* {decision driver 2, e.g., a force, facing concern, …}
+* {decision driver 1, for instance, a desired software quality, faced concern, constraint or force}
+* {decision driver 2}
 * … <!-- numbers of drivers can vary -->
 
 ## Considered Options
@@ -63,7 +63,6 @@ Chosen option: "{title of option 1}", because {justification. e.g., only option,
 {example | description | pointer to more information | …}
 
 * Good, because {argument a}
-* Good, because {argument b}
 * Neutral, because {argument c}
 * Bad, because {argument d}
 * …
